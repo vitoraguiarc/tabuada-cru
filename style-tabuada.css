@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#conteudo{
+    width: 400px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid 1px #000000;
+    text-align: center;
+}
